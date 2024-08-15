@@ -1,0 +1,153 @@
+.contanier{
+    max-width: 1200px;
+}
+.wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.div{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+h1{
+    background-color: #F1A900;
+   font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+font-weight: 700;
+line-height: 24.2px;
+text-align: left;
+
+  
+}
+
+header{
+    background-color: black;
+}
+
+
+p{
+    color: white;
+}
+
+.url{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #222222;
+}
+
+.fox{
+    width: 1440px;
+height: 797px;
+top: 126px;
+gap: 0px;
+opacity: 0px;
+background-size: cover;
+}
+main{
+    background-image: url("./image\ 5\ \(1\).png");
+    height: 100vh;
+}
+
+.class button{
+    margin-top: 400px;
+    margin-left: 400px;
+    width: 235px;
+    height: 73px;
+   
+}
+
+.com{
+ color: white;
+ background-color: black;
+ font-weight: 700;
+ font-size: 40px;
+ width: 250px;
+ height: 80px;
+ border: solid 1px black;
+}
+
+
+
+.pc{
+    background-color: #F1A900;
+    color: black;
+    font-weight: 700;
+    font-size: 40px;
+    
+}
+
+.talk{
+    background: #F1A90054;
+    width: 966px;
+    height: 202px;
+    gap: 0px;
+    color: white;
+    padding-top: 100px;
+    font-family: Inter;
+    font-size: 64px;
+    font-weight: 700;
+   text-align: center;
+ 
+}
+
+.clas{
+    margin-top: 300px;
+    margin-left: 400px;
+    
+}
+
+.pc{
+    margin: 30px;
+    width: 235px;
+    height: 73px;
+    border: 1px solid  #F1A900;
+}
+
+.div__wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.get{
+    background-color: black;
+   
+}
+.slash{
+   display: flex;
+    margin-left: 1000px;
+   justify-content: space-around;
+}
+
+.src{
+    margin-top: 40px;
+}
+
+
+.alt{
+    justify-content: space-around;
+
+}
+
+.vid{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    margin-right: 300px;
+}
+
+.like{
+    margin-left: 57px;
+}
+
+
+.main{
+    margin-top: 30px;
+    margin-left: 250px;
+    left: 263px;
+   
+}
